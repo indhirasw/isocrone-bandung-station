@@ -1,6 +1,7 @@
 # Isochrone Accessibility Analysis: Bandung Railway Station (South Gate)
 
-![Bandung Station Isochrone Map](Isochrone_map_Bandung_Station.jpeg)
+<img width="3472" height="2455" alt="Isochrone map Bandung Station" src="https://github.com/user-attachments/assets/79fce86d-7e8a-4bf0-a483-2e722142185d" />
+
 
 ## 📌 Project Overview
 This project presents an **Isochrone Accessibility Analysis** to evaluate pedestrian reachability from the **South Entrance of Bandung Railway Station (Stasiun Bandung)**. Using spatial network analysis, the project delineates 10-, 20-, and 30-minute walking boundaries (isochrones) to understand urban mobility, pedestrian catchment areas, and accessibility to public transit hubs in Bandung, West Java.
